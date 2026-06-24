@@ -1,3 +1,8 @@
+# Proyecto Python: Análisis Estadístico, Mapeo y Categorización de Datos de Huracanes
+
+Este repositorio contiene un proyecto práctico desarrollado en Python enfocado en el análisis, modelado y transformación de datos no estructurados utilizando diccionarios anidados, algoritmos de agregación secuencial y lógicas de clasificación condicional por rangos de severidad. El script procesa registros históricos de huracanes en el Atlántico, normaliza sus costos financieros y automatiza la extracción de perfiles de riesgo basados en mortalidad y daños materiales.
+
+---
 ## Código Python del Proyecto
 
 El programa realiza la limpieza de unidades de almacenamiento, construye un mapa relacional indexado por nombres y procesa diversas agrupaciones métricas:
